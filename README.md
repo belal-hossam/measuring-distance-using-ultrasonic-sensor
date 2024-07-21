@@ -4,7 +4,7 @@ Overview: This project implements a distance measurement system using the ATmega
 Specifications:
 1.	Microcontroller: ATmega32 operating at a frequency of 8MHz.
 2.	Distance Measurement: Utilizes the HC-SR04 ultrasonic sensor to measure distances.
-3.	Sensor Interface: Refer to the "HC-SR04 Ultrasonic MT Student Tutorial" PDF file for interfacing instructions.
+3.	Sensor Interface: using  the HC-SR04 Ultrasonic sensor
 4.	LCD Display: Displays the measured distance in real-time.
 
 
